@@ -3,7 +3,7 @@ Simple Dark theme for Google Chrome Desktop Browser
 
 ## Screenshot
 
-![alt text](https://github.com/phuctk93/uDark/raw/master/Screenshot.png "uDark - Chrome Dark theme")
+![alt text](https://github.com/phuctk93/uDark/raw/master/Screenshot.PNG "uDark - Chrome Dark theme")
 
 ## How To Use
 - Download (Click Clone or download green button -> Download ZIP) or clone this project by git
